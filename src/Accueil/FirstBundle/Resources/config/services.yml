@@ -1,0 +1,4 @@
+services:
+#    milliweb_first.example:
+#        class: Milliweb\FirstBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

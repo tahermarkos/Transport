@@ -1,0 +1,3 @@
+milliweb_first:
+    resource: "@AccueilFirstBundle/Resources/config/routing.yml"
+    prefix:   /
